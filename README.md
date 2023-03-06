@@ -17,6 +17,7 @@
    N/A
    ## Usage
    Go on the deployed link or clone the repository and open the project in a liver server. There you can take the quiz.
+   Link: https://zmirza0.github.io/code-quiz/
    ## Credits/Contribution
    Made by Zarrar Raja, no contribution needed.
    ## License
